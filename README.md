@@ -72,7 +72,3 @@ Want to contribute? Follow these steps:
 ## 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
 
-## 📞 Contact  
-For any queries, reach out to:  
-- **GitHub:** [@ravneet03](https://github.com/ravneet03)  
-- **Email:** ravneetsingh290@gmail.com  
